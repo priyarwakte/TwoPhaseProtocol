@@ -1,5 +1,4 @@
 CSE 5331 - 001 - Project 1 - Two Phase Locking (2 PL) Protocol
-        Priyanka Ramdas Wakte (1001920878)
        
 Output files folder has the output files for all the 4 inputs given
 
