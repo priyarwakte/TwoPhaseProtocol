@@ -1,6 +1,4 @@
-CSE 5331 - 001 - Project 1 - Two Phase Locking (2 PL) Protocol
-       
-Output files folder has the output files for all the 4 inputs given
+Two Phase Locking (2 PL) Protocol
 
 How to run the code:
 
